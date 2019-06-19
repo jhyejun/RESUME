@@ -1,43 +1,43 @@
-# 장혜준 - 이력서
+# 장혜준 - 이력서 [영문버전](/README_EN.md)
 
 ## 개인 세부 사항
 
 #### 이메일
-- **<hyejun417@gmail.com>**
+- <hyejun417@gmail.com>
 
 #### 웹사이트
-- **<http://jhyejun.com>**
+- <http://jhyejun.com>
 
 ---
 
 ## 개요
 
 #### 보유 기술
-- **프로그래밍 언어: C, Python, PHP, Swift, React, Javascript**
-- **클라우드 서비스: AWS**
-- **모바일 개발: iOS(Swift)**
-- **데이터베이스: MySQL, SQLite, Realm**
+- 프로그래밍 언어: C, Python, PHP, Swift, React, Javascript
+- 클라우드 서비스: AWS
+- 모바일 개발: iOS(Swift)
+- 데이터베이스: MySQL, SQLite, Realm
 
 ---
 
 ## 학력
 
 #### 2013 - 2016
-- **[선린인터넷고등학교](http://www.sunrint.hs.kr){:target="_blank"}**<br>
-**정보통신과 전공**
+- [선린인터넷고등학교](http://www.sunrint.hs.kr)<br>
+정보통신과 전공
 
 ---
 
 ## 경력
 
 #### 2018년 9월 - 현재
-- **[이스트몹](https://send-anywhere.com/ko/product){:target="_blank"}**<br>
-**Software Engineer**
-	- **[sendanywhere iOS Application](https://itunes.apple.com/app/apple-store/id596642855?pt=1862332&ct=website_download&mt=8){:target="_blank"}**
+- [이스트몹](https://send-anywhere.com/ko/product)<br>
+Software Engineer
+	- [sendanywhere iOS Application](https://itunes.apple.com/app/apple-store/id596642855?pt=1862332&ct=website_download&mt=8)
 		- **Swift**
 		- **Objective-C**
 		- **UI development with code**
-	- **[Sendy Cloud Web FrontEnd](https://sendy.jp/cloud/){:target="_blank"}**
+	- [Sendy Cloud Web FrontEnd](https://sendy.jp/cloud/)
 		- **React**
 		- **Redux**
 		- **CSS**
@@ -45,9 +45,9 @@
 <br>
 
 #### 2017년 12월 - 2018년 8월
-- **웹티즌**<br>
-**System Engineer**
-	- **Server**
+- 웹티즌<br>
+System Engineer
+	- Server
 		- **Backup Server**
 		- **CDN**
 		- **Server maintenance**
@@ -55,8 +55,8 @@
 <br>
 
 #### 2016년 12월 - 2017년 11월
-- **집브라더스**<br>
-**Software Engineer**
+- 집브라더스<br>
+Software Engineer
 	- **iOS Application**
 		- **Swift**
 		- **Storyboard**
@@ -64,8 +64,8 @@
 <br>
 
 #### 2015년 9월 - 2016년 8월
-- **웹티즌**<br>
-**Network Engineer**
+- 웹티즌<br>
+Network Engineer
 	- **Web Application**
 		- **HTML**
 		- **PHP**
