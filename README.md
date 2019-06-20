@@ -145,7 +145,7 @@ Network Engineer
 
 <br>
 
-#### September 2017 - November 2017
+#### 2017년 9월 - 2017년 11월
 - [기념일 관리 어플](http://jhyejun.com/project/anniversary-management)<br>
 유저의 전화부에 있는 사람들의 기념일을 관리
 	- iOS Application
