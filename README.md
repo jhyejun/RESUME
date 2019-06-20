@@ -84,7 +84,7 @@ Network Engineer
 
 ---
 
-### Projects
+### 프로젝트
 
 #### 2019 6월 - 
 - 버스 도착 알림 어플
@@ -122,7 +122,7 @@ Network Engineer
 
 <br>
 
-#### November 2018 - January 2019
+#### 2018년 11월 - 2019년 1월
 - [센드애니웨어 iOS 뮤직플레이어 기능 리뉴얼](https://itunes.apple.com/app/apple-store/id596642855?pt=1862332&ct=website_download&mt=8)
 	- iOS Application
 		- Swift
@@ -134,7 +134,7 @@ Network Engineer
 
 <br>
 
-#### April 2018 - April 2018
+#### 2018년 4월
 - [병역특례 티오 확인 어플 (Ver 0.5)](http://jhyejun.com/project/military-to-ver-0.5)
 	- iOS Application
 		- Swift
