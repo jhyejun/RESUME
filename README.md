@@ -1,11 +1,13 @@
 ## 이력서
-* [영문버전](/README_EN.md)
+* [영문 버전](/README_EN.md)
 
+
+<br>
 
 ### 개인 세부 사항
 
 #### 이름
-- 장혜준 (Hyejun Jang)
+- 장혜준
 
 #### 이메일
 - <hyejun417@gmail.com>
