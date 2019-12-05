@@ -22,7 +22,7 @@
 #### 보유 기술
 - 프로그래밍 언어: C, Python, PHP, Swift, React, Javascript
 - 클라우드 서비스: AWS
-- 모바일 개발: iOS(Swift)
+- 모바일 개발: iOS(Swift), RxSwift, RxFlow
 - 데이터베이스: MySQL, SQLite, Realm
 
 ---
@@ -37,7 +37,21 @@
 
 ### 경력
 
-#### 2018년 9월 - 현재
+#### 8월 2019 - 현재
+- [두나무](https://dunamu.com)<br>
+Software Engineer
+	- [Upbit iOS Application](https://apps.apple.com/kr/app/업비트-가장-신뢰받는-암호화폐-거래소/id1256371195)
+		- Swift
+		- RxSwift
+		- RxFlow
+	- [Upbit Global iOS Application](https://apps.apple.com/kr/app/upbit-global-crypto-exchange/id1439527412)
+		- Swift
+		- RxSwift
+		- RxFlow
+
+<br>
+
+#### 2018년 9월 - 2019년 8월
 - [이스트몹](https://send-anywhere.com/ko/product)<br>
 Software Engineer
 	- [sendanywhere iOS Application](https://itunes.apple.com/app/apple-store/id596642855?pt=1862332&ct=website_download&mt=8)
